@@ -15,7 +15,14 @@ Cyberlab
 
 ### Skills
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+</p>
 
 ---
 
