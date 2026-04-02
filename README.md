@@ -1,13 +1,10 @@
 # Minseok-Kim
 <div align="center">
 
-## Your Name
-
-`@yourusername` · Security Researcher · Ethical Hacker
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=minseok&fontAlign=80&fontAlignY=40&color=gradient" />
 
----
 
 ### About
 
